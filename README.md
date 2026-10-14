@@ -1,6 +1,6 @@
 # v9cli
 
-The customer command-line interface for [Valid9](https://www.valid9.com).
+The customer command-line interface for [Valid9](https://www.valid9.com). The command is `v9`.
 
 Read requirements, tests and release context, prepare drafts, and import
 supported source documents using your own Valid9 account and permissions.
